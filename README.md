@@ -16,7 +16,7 @@ REGISTERED SURVEYOR | GIS and spatial analyst expert with strong web development
 
 - 👨‍💻 All of my projects are available at <a href="https://bazzlycodes.netlify.com" target="_blank">[Portfolio]</a>
 
-- 📝 I regularly write articles on <a href="medium.com/@bazzlycodes" target="_blank">[medium]</a>
+- 📝 I regularly write articles on <a href="https://medium.com/@bazzlycodes" target="_blank">[medium]</a>
 
 - 💬 Ask me about **WEBSITE DEVELOPMENT, PHP, LARAVEL, LIVEWIRE AND TAILWIND CSS**
 
