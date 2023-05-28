@@ -10,13 +10,13 @@ REGISTERED SURVEYOR | GIS and spatial analyst expert with strong web development
 
 <p align="left"> <a href="https://twitter.com/bazzlycodes" target="blank"><img src="https://img.shields.io/twitter/follow/bazzlycodes?logo=twitter&style=for-the-badge" alt="bazzlycodes" /></a> </p>
 
-- 🔭 I’m currently working on (<a href="https://cmswebapp.netlify.com" target="_blank">[bazzlylinksCMS]</a>)
+- 🔭 I’m currently working on <a href="https://cmswebapp.netlify.com" target="_blank">[bazzlylinksCMS]</a>
 
 - 🌱 I’m currently learning **UI/UX and AI/ML**
 
-- 👨‍💻 All of my projects are available at [Portfolio](bazzlycodes.netlify.com)
+- 👨‍💻 All of my projects are available at <a href="https://bazzlycodes.netlify.com" target="_blank">[Portfolio]</a>
 
-- 📝 I regularly write articles on [medium](medium.com/@bazzlycodes)
+- 📝 I regularly write articles on <a href="medium.com/@bazzlycodes" target="_blank">[medium]</a
 
 - 💬 Ask me about **WEBSITE DEVELOPMENT, PHP, LARAVEL, LIVEWIRE AND TAILWIND CSS**
 
